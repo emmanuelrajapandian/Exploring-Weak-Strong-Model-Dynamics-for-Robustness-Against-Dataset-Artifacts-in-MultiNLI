@@ -1,0 +1,24 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "6d4ea2231927ddaf",
+  "_format_columns": [
+    "promptID",
+    "pairID",
+    "premise",
+    "premise_binary_parse",
+    "premise_parse",
+    "hypothesis",
+    "hypothesis_binary_parse",
+    "hypothesis_parse",
+    "genre",
+    "label"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
